@@ -1,1 +1,2 @@
 Parte del manual creado via GitHub Web.
+parte del manual modificado en VS Code 20, 90, 30 
